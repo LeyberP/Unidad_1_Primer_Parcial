@@ -16,7 +16,7 @@
 | **Período** | Julio – Diciembre 2026 |
 | **Actividad** | Tarea 1: Programa cafeteria |
 
-## Descripción del Proyecto
+## Descripción del Deber
 
 Este deber implementa un sistema automatizado para una cafetería universitaria que permite:
 
