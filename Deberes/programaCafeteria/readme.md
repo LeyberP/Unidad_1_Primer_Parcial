@@ -4,15 +4,17 @@
 
 ## Información Académica
 
-| Universidad | Universidad Técnica de Ambato (UTA) |
-| Facultad | Ingeniería en Sistemas, Electrónica e Industrial |
-| Carrera | Software |
-| Asignatura | Algoritmos y lógica de programación |
-| Docente | Ing. José Ruben Caizabuano, Mg. |
-| Estudiante | Peñafiel Solórzano Leyber Smith |
-| Semestre | Primero "B" |
-| Período | Julio – Diciembre 2026 |
-| Actividad | Tarea Práctica: Programa Cafeteria |
+| | |
+| :--- | :--- |
+| **Universidad** | Universidad Técnica de Ambato (UTA) |
+| **Facultad** | Ingeniería en Sistemas, Electrónica e Industrial |
+| **Carrera** | Software |
+| **Asignatura** | Algoritmos y lógica de programación |
+| **Docente** | Ing. José Ruben Caizabuano, Mg. |
+| **Estudiante** | Peñafiel Solórzano Leyber Smith |
+| **Semestre** | Primero "B" |
+| **Período** | Julio – Diciembre 2026 |
+| **Actividad** | Tarea 1: Programa cafeteria |
 
 ## Descripción del Proyecto
 
