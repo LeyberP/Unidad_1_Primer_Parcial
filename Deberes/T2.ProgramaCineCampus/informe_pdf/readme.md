@@ -1,0 +1,1 @@
+<p>Archivo pdf con contenido de la resolución del enunciado con 5 pasos, análisis, algoritmo, pseudocódigo, flujograma, prueba de escritorio además de codificación, conclusiones y recomendaciones. </p>
