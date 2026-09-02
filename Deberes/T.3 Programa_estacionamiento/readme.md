@@ -1,0 +1,1 @@
+<p>La universidad necesita calcular el valor de estacionamiento. El programa ofrecerá un menú con las opciones Calcular tarifa, Ver tarifas y Salir. Para calcular solicitará tipo de vehículo, rol del usuario, día, horas y si perdió el boleto.</p>
