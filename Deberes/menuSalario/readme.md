@@ -8,7 +8,7 @@ Accede directamente a los archivos y carpetas del repositorio:
 
 * ☕ [**Carpeta con el código en Java**](./menuSalario%20en%20Java)
 * ⚙️ [**Carpeta con el código en C++**](./menuSalario%20en%20C++)
-* 📄 [**Carpeta del Informe y Análisis**](./Informe) (contiene el documento `menuSalario.pdf`)
+* 📄 [**Carpeta del Informe y Análisis**](./Informe)
 
 ---
 
