@@ -43,7 +43,7 @@ Accede directamente a los archivos y carpetas del repositorio:
       <td>Ing. José Ruben Caizabuano, Mg.</td>
     </tr>
     <tr>
-      <td><b>Estudiantes</b></td>
+      <td><b>Estudiante</b></td>
       <td>Peñafiel Solórzano Leyber Smith</td>
     </tr>
     <tr>
