@@ -2,6 +2,14 @@
 
 > Sistema de consola para la gestión interactiva de salarios desarrollado aplicando estructuras repetitivas (`do-while`, `while`), estructuras de selección múltiple (`switch`) y lógica algorítmica en C++ y Java, permitiendo el registro continuo de datos, cálculo de métricas estadísticas (promedio, salario mayor y menor), comparación individual de sueldos y reinicio seguro de variables.
 
+## 🔗 Navegación del Proyecto
+
+Accede directamente a los archivos y carpetas del repositorio:
+
+* ☕ [**Carpeta con el código en Java**](./menuSalario%20en%20Java)
+* ⚙️ [**Carpeta con el código en C++**](./menuSalario%20en%20C++)
+* 📄 [**Carpeta del Informe y Análisis**](./Informe) (contiene el documento `menuSalario.pdf`)
+
 ---
 
 <h2>Información Académica</h2>
@@ -48,7 +56,7 @@
     </tr>
     <tr>
       <td><b>Actividad</b></td>
-      <td>Menú Salario: sistema de salarios con menú </td>
+      <td>Menú Salario: sistema de salarios con menú.</td>
     </tr>
   </tbody>
 </table>
